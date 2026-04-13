@@ -1,0 +1,11 @@
+﻿venv/
+TEIS-DjangoSOLID/__pycache__/
+*.pyc
+
+TEIS-DjangoSOLID/.env
+
+TEIS-DjangoSOLID/.env
+
+TEIS-DjangoSOLID/db.sqlite3
+
+TEIS-DjangoSOLID/db.sqlite3
